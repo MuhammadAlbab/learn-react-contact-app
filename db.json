@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "id": 1623986358971,
+      "name": "Baru guys",
+      "number": "4541",
+      "status": "keluarga",
+      "keterangan": "sldkasdjioajsd"
+    },
+    {
+      "id": 1623995348065,
+      "name": "Albab baru",
+      "number": "0852",
+      "status": "teman",
+      "keterangan": "Bara bara"
+    },
+    {
+      "id": 1623995525942,
+      "name": "bababbab",
+      "number": "0852",
+      "status": "teman",
+      "keterangan": "hehe"
+    },
+    {
+      "id": 1624000434661,
+      "name": "aaaaaaaaa",
+      "number": "2222222",
+      "status": "keluarga",
+      "keterangan": "aaaaaaaaaaa"
+    },
+    {
+      "id": 1624000554987,
+      "name": "albab",
+      "number": "052",
+      "status": "keluarga",
+      "keterangan": "wah wah"
+    },
+    {
+      "id": 1624000585920,
+      "name": "masa siwa",
+      "number": "21231",
+      "status": "asing",
+      "keterangan": "hehe"
+    }
+  ]
+}

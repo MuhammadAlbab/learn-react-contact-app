@@ -1,0 +1,5 @@
+export const actionTypes = {
+  FETCH_DATA: "FETCH_DATA",
+  ADD_CONTACT: "ADD_CONTACT",
+  DELETE_CONTACT: "DELETE_CONTACT",
+};

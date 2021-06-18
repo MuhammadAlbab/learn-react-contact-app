@@ -1,0 +1,10 @@
+.title {
+  text-align: center;
+  font-size: xx-large;
+  font-weight: bold;
+}
+
+.btn-wraper {
+  margin: 10px;
+  text-align: center;
+}

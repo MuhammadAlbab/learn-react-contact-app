@@ -1,0 +1,11 @@
+.card-wraper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.card {
+  min-width: 200px;
+  margin: 10px;
+}
